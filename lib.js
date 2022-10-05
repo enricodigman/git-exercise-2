@@ -15,3 +15,10 @@ const isPalindrome = (str) => {
 
     return false;
 };
+
+module.exports = {
+    square,
+    fahrenheit,
+    rectangleArea,
+    isPalindrome
+};
